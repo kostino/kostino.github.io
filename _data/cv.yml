@@ -9,8 +9,8 @@
       institution: Aristotle University of Thessaloniki
       year: 2022
       description:
-        - Specialization Area: Electronics and Computer Engineering
-        - Thesis: “Deep Learning for Automatic Modulation Classification”, together with Konstantinos Doumanidis, advised by Asst. Prof. N.Chatzidiamantis and Prof. G.Karagiannidis.
+        - <b>Specialization Area:<\b> Electronics and Computer Engineering
+        - <b>Thesis:<\b> <a href="http://ikee.lib.auth.gr/record/334985/files/Thesis_Konstantinos_Doumanidis_Konstantinos_Triaridis.pdf">“Deep Learning for Automatic Modulation Classification”<\a>, together with Konstantinos Doumanidis, advised by Asst. Prof. N.Chatzidiamantis and Prof. G.Karagiannidis.
 
 - title: Experience
   type: time_table
