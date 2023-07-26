@@ -10,7 +10,7 @@
   - firstname: ["Nathan", "N."]
     url: https://en.wikipedia.org/wiki/Nathan_Rosen
 
-"Bach": 
+"Bach":
   - firstname: ["Johann Sebastian", "J. S."]
     url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
 
@@ -32,3 +32,15 @@
 "Planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+"Karagiannidis":
+  - firstname: ["George", "George K."]
+    url: http://geokarag.webpages.auth.gr/
+
+"Doumanidis":
+  - firstname: ["Constantine", "George K."]
+    url: https://doumanidis.hosting.nyu.edu/
+    
+"Chatzidiamantis":
+  - firstname: ["Nestor", "Nestor D."]
+    url: http://nestoras.webpages.auth.gr/
