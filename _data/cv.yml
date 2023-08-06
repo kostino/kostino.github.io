@@ -15,19 +15,22 @@
       institution: Information Technologies Institute (ITI) - Centre of Research and Technology Hellas (CERTH)
       year: 2023 - Present
       description:
-        - Research and Development in Machine Learning for multimedia manipulation detection and explainable AI.
+        - Research and Development in Machine Learning for MultiMedia forensics and explainable AI.
 
     - title: Machine Learning Research and Development Intern
       institution: NET2GRID
       year: 2021
       description:
-        - Design and implementation of Deep Reinforcement Learning solutions for Dynamic Control of Electric Vehicle (EV) charging stations.
+        - Designed and implemented Deep Reinforcement Learning solutions for Dynamic Control of Electric Vehicle (EV) charging stations.
 
     - title: Software Research and Development Intern
       institution: BETA CAE Systems
       year: 2020
+      description:
+        - Designed a full crash ingestion pipeline for collecting, processing, and reporting on crashes from ANSA, utilizing Mozilla's socorro and customizing it to the company's needs.
+        - Designed a full scale code quality assurance tool utilizing clang-tidy and implementation of simple web-app for company-wide tool usage.
 
 - title: Academic Interests
   type: list
   contents:
-    - Computer Vision, Optimization Theory, Explainable AI
+    - Computer Vision, Optimization for Machine Learning, Explainable AI
