@@ -40,7 +40,11 @@
 "Doumanidis":
   - firstname: ["Constantine", "George K."]
     url: https://doumanidis.hosting.nyu.edu/
-    
+
 "Chatzidiamantis":
   - firstname: ["Nestor", "Nestor D."]
     url: http://nestoras.webpages.auth.gr/
+
+"Mezaris":
+  - firstname: ["Vasileios"]
+    url: https://www.iti.gr/~bmezaris/
