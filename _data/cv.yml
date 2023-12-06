@@ -5,8 +5,10 @@
       institution: Aristotle University of Thessaloniki
       year: 2022
       description:
+        - <b>GPA:</b> 8.68/10, <b>Major GPA:</b> 9.34/10
         - <b>Specialization Area:</b> Electronics and Computer Engineering
-        - <b>Thesis:</b> <a href="http://ikee.lib.auth.gr/record/334985/files/Thesis_Konstantinos_Doumanidis_Konstantinos_Triaridis.pdf">“Deep Learning for Automatic Modulation Classification”</a>, together with <a href="https://doumanidis.hosting.nyu.edu/">Constantine Doumanidis</a>, advised by Asst. Prof. N.Chatzidiamantis and Prof. G.Karagiannidis.
+        - <b>Diploma Thesis:</b> <a href="http://ikee.lib.auth.gr/record/334985/files/Thesis_Konstantinos_Doumanidis_Konstantinos_Triaridis.pdf">“Deep Learning for Automatic Modulation Classification”</a>, joint w/ <a href="https://doumanidis.hosting.nyu.edu/">Constantine Doumanidis</a>
+        - <b>Advised by:</b> Asst. Prof. N.Chatzidiamantis and Prof. G.Karagiannidis.
 
 - title: Experience
   type: time_table
@@ -33,4 +35,4 @@
 - title: Academic Interests
   type: list
   contents:
-    - Computer Vision, Optimization for Machine Learning, Explainable AI
+    - Theoretical Machine Learning, Deep Learning, Computer Vision, Optimization Theory
