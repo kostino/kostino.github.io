@@ -17,7 +17,8 @@
       institution: Information Technologies Institute (ITI) - Centre of Research and Technology Hellas (CERTH)
       year: 2023 - Present
       description:
-        - Research and Development in Machine Learning for MultiMedia forensics and explainable AI.
+        - Conducted research in Deep Learning methods for multimedia manipulation detection.
+        - Assisted in reviewing papers for various venues, including ICCV, MMM
 
     - title: Machine Learning Research and Development Intern
       institution: NET2GRID
@@ -35,4 +36,4 @@
 - title: Academic Interests
   type: list
   contents:
-    - Theoretical Machine Learning, Deep Learning, Computer Vision, Optimization Theory
+    - Machine Learning Theory, Deep Learning, Optimization Theory, Computer Vision
