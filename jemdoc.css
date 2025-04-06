@@ -8,7 +8,7 @@ table#tlayout {
 
 body {
 	background: white;
-	font-family: Optima, Tahoma, Palatino, serif;
+	font-family: 'Segoe UI', Tahoma, Palatino, sans-serif;
 	padding-bottom: 8px;
 	margin: 0;
 }
